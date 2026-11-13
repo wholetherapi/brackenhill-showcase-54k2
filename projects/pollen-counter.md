@@ -12,7 +12,7 @@ tags:
   - air-quality
   - microcontroller
 build_kit: BH-PC-200
-package_url: https://github.com/lbsomoson/pollen-counter
+package_url: https://github.com/wholetherapi/pollen-counter
 ---
 
 ## Overview
