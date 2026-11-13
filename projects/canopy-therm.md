@@ -12,7 +12,6 @@ tags:
   - solar
   - logger
 build_kit: BH-CT-100
-package_url: https://github.com/wholetherapi/canopy-therm
 ---
 
 ## Overview

@@ -12,7 +12,6 @@ tags:
   - ultrasonic
   - telemetry
 build_kit: BH-TG-300
-package_url: https://github.com/wholetherapi/tide-gauge
 ---
 
 ## Overview
